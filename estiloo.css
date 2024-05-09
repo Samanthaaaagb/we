@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+
+.general{
+
+ background-color: rgb(198, 245, 233);
+   width: 97%;
+  height: 1200px;
+  margin: auto;
+}
+
+.encabezado{
+  height: 10%;
+  margin-bottom: 0.5em;
+  font-size: xx-large;
+  font-family: Cambria;
+  text-align: center;
+  border-radius: 20px;
+  background-image: url(img/fondo1);
+
+}
+
+.informacion{
+    background-color: rgb(145, 146, 189);
+    height: 50%;
+    margin-bottom: 1.2em;
+    border-radius: 20px;
+    font-size: larger;
+    font-family: arial;
+}
+
+.masinfo{
+    background-color: rgb(145, 146, 189);
+    height: 30%;
+    margin-bottom: 3.0em;
+    border-radius: 20px;
+    font-size: larger;
+    font-family: arial;
+}
+
+.piepagina{
+    background-color: rgb(172, 221, 196);
+    height: 10%;
+    margin-bottom: 0.5em;
+    border-radius: 10px;
+    background-image: url(img/fondo1);
+    font-size: larger;
+    font-family: cursive;
+
+}
+
+.foto1{
+    margin: 10px;
+    border-radius: 15px;
+    height: 70%;
+}
+
+.foto2{
+    margin: 10px;
+    border-radius: 15px;
+    height: 70%;
+
+}
+.fecha{
+    font-size: larger;
+    font-family: cursive;
+    text-align: center;
+
+}
+
+.grupo{
+    font-size: larger;
+    font-family: cursive;
+    text-align: right;
+}
+
+.paginas{
+width: 25%;
+margin: auto;
+text-align: center;
+font-size: medium;
+
+}
